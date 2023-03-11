@@ -7,3 +7,6 @@
 I then created a N layer net, which can create a network with an arbitrary number of layers. I also added batch normalization and dropout.
 
 These exercises is a compliment to Stanford's cs231n course, which is a course about Image Recognition. The purpose of doing these exercises is to practice programming neural networks on my own, without the use of PyTorch, TensorFlow, etc. I can gain an understanding of th internal mechanism that allow for these nets to function, so that when I finally dive deep into these libraries, I can understand what I am using.
+
+
+
